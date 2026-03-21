@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-labelledby="title desc">
+  <title id="title">Centro storico di Santa Teresa Gallura</title>
+  <desc id="desc">Illustrazione di una via del centro con facciate chiare e ombre estive.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f5e5cd" />
+      <stop offset="100%" stop-color="#f1d2a8" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#sky)" />
+  <rect x="80" y="180" width="170" height="250" rx="8" fill="#f8f4ee" />
+  <rect x="290" y="145" width="220" height="285" rx="8" fill="#f6efe1" />
+  <rect x="545" y="198" width="180" height="232" rx="8" fill="#faf6f1" />
+  <rect x="0" y="430" width="800" height="130" fill="#c9b59d" />
+  <rect x="124" y="235" width="80" height="110" fill="#8fb0bc" />
+  <rect x="344" y="210" width="110" height="140" fill="#8ca8b2" />
+  <rect x="585" y="248" width="98" height="120" fill="#86a2ad" />
+  <path d="M0 430 L800 430 L800 560 L0 560 Z" fill="#b39d84" fill-opacity="0.45" />
+  <circle cx="690" cy="92" r="48" fill="#ffe7bf" />
+</svg>

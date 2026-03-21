@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Gelato Caffe</title>
+  <desc id="desc">Icona gusto caffe.</desc>
+  <rect width="320" height="320" fill="#f2ece8" />
+  <circle cx="160" cy="160" r="84" fill="#8a5b3a" />
+  <path d="M132 172 C144 160 176 160 188 172" stroke="#b78663" stroke-width="8" fill="none" stroke-linecap="round" />
+  <rect x="148" y="198" width="24" height="86" rx="12" fill="#c59a68" />
+</svg>

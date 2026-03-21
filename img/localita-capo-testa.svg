@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-labelledby="title desc">
+  <title id="title">Capo Testa al tramonto</title>
+  <desc id="desc">Illustrazione paesaggio costiero ispirato a Capo Testa a Santa Teresa Gallura.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f7d9a5" />
+      <stop offset="55%" stop-color="#f9c88f" />
+      <stop offset="100%" stop-color="#f3b578" />
+    </linearGradient>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7eb3bd" />
+      <stop offset="100%" stop-color="#3f7682" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="320" fill="url(#sky)" />
+  <rect y="320" width="800" height="240" fill="url(#sea)" />
+  <circle cx="634" cy="120" r="56" fill="#ffe9c0" />
+  <path d="M0 355 C130 332 180 365 280 350 C375 335 460 365 560 352 C650 339 710 360 800 348 L800 560 L0 560 Z" fill="#3f6f69" />
+  <path d="M0 410 C110 392 182 428 270 412 C368 396 470 432 570 416 C657 402 734 424 800 414 L800 560 L0 560 Z" fill="#2b4f4d" />
+</svg>

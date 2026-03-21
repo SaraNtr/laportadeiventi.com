@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Gelato Nocciola</title>
+  <desc id="desc">Illustrazione minimal del gusto nocciola.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8eee3" />
+      <stop offset="100%" stop-color="#f1dfc8" />
+    </linearGradient>
+  </defs>
+  <rect width="320" height="320" fill="url(#bg)" />
+  <circle cx="160" cy="136" r="70" fill="#bb8f65" />
+  <circle cx="138" cy="120" r="8" fill="#8d6a4b" />
+  <circle cx="164" cy="108" r="8" fill="#8d6a4b" />
+  <circle cx="188" cy="122" r="8" fill="#8d6a4b" />
+  <rect x="148" y="192" width="24" height="80" rx="12" fill="#b0845c" />
+</svg>

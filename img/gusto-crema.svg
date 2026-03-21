@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Gelato Crema</title>
+  <desc id="desc">Icona gusto crema.</desc>
+  <rect width="320" height="320" fill="#fff8ea" />
+  <circle cx="160" cy="160" r="84" fill="#ecd29b" />
+  <path d="M118 168 C138 146 182 146 202 168" stroke="#f7e8c6" stroke-width="8" fill="none" stroke-linecap="round" />
+  <rect x="148" y="198" width="24" height="86" rx="12" fill="#c59a68" />
+</svg>

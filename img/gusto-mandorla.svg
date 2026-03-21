@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Gelato Mandorla</title>
+  <desc id="desc">Icona gusto mandorla.</desc>
+  <rect width="320" height="320" fill="#f8f0e3" />
+  <circle cx="160" cy="160" r="84" fill="#d6b58a" />
+  <ellipse cx="145" cy="145" rx="14" ry="8" fill="#b78f63" />
+  <ellipse cx="176" cy="166" rx="14" ry="8" fill="#b78f63" />
+  <rect x="148" y="198" width="24" height="86" rx="12" fill="#c59a68" />
+</svg>

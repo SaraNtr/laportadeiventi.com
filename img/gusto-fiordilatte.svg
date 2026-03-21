@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Gelato Fior di Latte</title>
+  <desc id="desc">Icona gusto fior di latte.</desc>
+  <rect width="320" height="320" fill="#f3f9ff" />
+  <circle cx="160" cy="160" r="84" fill="#f8f8f3" stroke="#dbe7f2" stroke-width="6" />
+  <rect x="148" y="198" width="24" height="86" rx="12" fill="#c59a68" />
+</svg>
