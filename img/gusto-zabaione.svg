@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Gelato Zabaione</title>
+  <desc id="desc">Illustrazione minimal del gusto zabaione.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff8e5" />
+      <stop offset="100%" stop-color="#f7df9f" />
+    </linearGradient>
+  </defs>
+  <rect width="320" height="320" fill="url(#bg)" />
+  <circle cx="160" cy="136" r="68" fill="#f0c85d" />
+  <path d="M116 140 C140 122 180 122 204 140" stroke="#ffe79f" stroke-width="8" fill="none" stroke-linecap="round" />
+  <rect x="148" y="194" width="24" height="78" rx="12" fill="#b88d62" />
+</svg>

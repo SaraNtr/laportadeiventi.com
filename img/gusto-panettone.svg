@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Gelato Panettone</title>
+  <desc id="desc">Illustrazione minimal del gusto panettone.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff4df" />
+      <stop offset="100%" stop-color="#f5ddb8" />
+    </linearGradient>
+  </defs>
+  <rect width="320" height="320" fill="url(#bg)" />
+  <circle cx="160" cy="136" r="68" fill="#dfad64" />
+  <circle cx="130" cy="126" r="8" fill="#f2cc7f" />
+  <circle cx="182" cy="150" r="8" fill="#f2cc7f" />
+  <circle cx="156" cy="166" r="7" fill="#f2cc7f" />
+  <rect x="148" y="194" width="24" height="78" rx="12" fill="#b88d62" />
+</svg>

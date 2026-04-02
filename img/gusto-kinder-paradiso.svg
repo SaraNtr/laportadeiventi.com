@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Gelato Kinder paradiso</title>
+  <desc id="desc">Illustrazione minimal del gusto kinder paradiso.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff9ef" />
+      <stop offset="100%" stop-color="#f8ead5" />
+    </linearGradient>
+  </defs>
+  <rect width="320" height="320" fill="url(#bg)" />
+  <circle cx="160" cy="136" r="68" fill="#f1e2c6" />
+  <path d="M112 136 C136 124 184 124 208 136" stroke="#fffef7" stroke-width="10" fill="none" stroke-linecap="round" />
+  <circle cx="154" cy="164" r="10" fill="#fffef7" />
+  <rect x="148" y="194" width="24" height="78" rx="12" fill="#be9368" />
+</svg>

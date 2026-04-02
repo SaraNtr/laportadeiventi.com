@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
-  <title id="title">Gelato Pesca</title>
-  <desc id="desc">Icona gusto pesca.</desc>
-  <rect width="320" height="320" fill="#fff1e8" />
-  <circle cx="160" cy="160" r="84" fill="#f2a06e" />
-  <path d="M144 124 C156 112 174 112 186 124" stroke="#78a36b" stroke-width="7" fill="none" stroke-linecap="round" />
-  <circle cx="172" cy="154" r="20" fill="#f6bf97" fill-opacity="0.75" />
-  <rect x="148" y="198" width="24" height="86" rx="12" fill="#c59a68" />
-</svg>

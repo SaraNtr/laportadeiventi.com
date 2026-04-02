@@ -1,16 +1,16 @@
 :root {
-  --bg: #eef9ff;
+  --bg: #eef7f7;
   --surface: #ffffff;
-  --section-alt: #dff2ff;
-  --text: #0f2e4e;
-  --muted: #365f86;
-  --brand: #00a6e6;
-  --brand-dark: #006ca8;
-  --accent: #18b4ef;
-  --sand: #ccecff;
-  --line: #a9d9f5;
+  --section-alt: #b0d8d7;
+  --text: #143739;
+  --muted: #3e6566;
+  --brand: #4a9c9a;
+  --brand-dark: #2f7f7d;
+  --accent: #72bfbd;
+  --sand: #d8efee;
+  --line: #9ec7c6;
   --radius: 16px;
-  --shadow: 0 10px 24px rgba(4, 95, 148, 0.16);
+  --shadow: 0 10px 24px rgba(42, 96, 95, 0.16);
 }
 
 * {
@@ -26,7 +26,7 @@ body {
   margin: 0;
   font-family: "Manrope", "Segoe UI", sans-serif;
   color: var(--text);
-  background: radial-gradient(circle at 12% 6%, #f6fcff 0%, var(--bg) 46%, #d5eeff 100%);
+  background: radial-gradient(circle at 12% 6%, #f6fbfb 0%, var(--bg) 46%, #d3e9e8 100%);
   line-height: 1.6;
 }
 
@@ -48,7 +48,7 @@ a {
   top: 0;
   z-index: 20;
   background: rgba(255, 255, 255, 0.94);
-  /* background: rgba(238, 249, 255, 0.94); */
+  /* background: rgba(238, 247, 247, 0.94); */
   border-bottom: 1px solid var(--line);
   backdrop-filter: blur(8px);
 }
@@ -73,7 +73,7 @@ a {
 }
 
 .brand-logo {
-  height: 34px;
+  height: 50px;
   width: auto;
   display: block;
   border-radius: 6px;
@@ -82,6 +82,7 @@ a {
 .brand-mark {
   display: block;
   font-family: "Cormorant Garamond", Georgia, serif;
+  font-style: italic;
   font-size: 1.25rem;
   font-weight: 700;
   line-height: 1.1;
@@ -164,9 +165,9 @@ h3 {
   margin: 0 0 16px;
   padding: 10px 24px;
   border-radius: 999px;
-  background: #cff0ff;
-  border: 1px solid #87c9ec;
-  color: #005f97;
+  background: #d3eceb;
+  border: 1px solid #8bbfbe;
+  color: #2a6f6d;
   font-size: 1.15rem;
   font-weight: 700;
   letter-spacing: 0.02em;
@@ -203,14 +204,14 @@ h2 {
 }
 
 .btn-primary {
-  background: linear-gradient(135deg, var(--accent), #008ed0);
+  background: linear-gradient(135deg, var(--accent), #4f9f9d);
   color: #ffffff;
 }
 
 .btn-secondary {
   background: var(--surface);
   color: var(--brand-dark);
-  border-color: #7fc0e8;
+  border-color: #89bdbc;
 }
 
 .hero-card,
@@ -224,7 +225,7 @@ h2 {
 
 .hero-card {
   padding: 22px;
-  background: linear-gradient(180deg, #ffffff 0%, #e4f5ff 100%);
+  background: linear-gradient(180deg, #ffffff 0%, #d9efee 100%);
 }
 
 .hero-card ul {
@@ -250,7 +251,7 @@ h2 {
 
 .story p {
   max-width: 78ch;
-  color: #1b4f78;
+  color: #2f5f60;
 }
 
 .gallery {
@@ -273,7 +274,7 @@ h2 {
 
 .flavor-card:hover {
   transform: translateY(-7.5px);
-  box-shadow: 0 10px 20px rgba(23, 85, 139, 0.15);
+  box-shadow: 0 10px 20px rgba(46, 97, 96, 0.15);
 }
 
 .flavor-card img {
@@ -282,7 +283,7 @@ h2 {
   aspect-ratio: 1 / 1;
   object-fit: cover;
   border-radius: 50%;
-  border: 1px solid #9fceeb;
+  border: 1px solid #9ec3c2;
   margin: 0 auto 8px;
 }
 
@@ -361,7 +362,7 @@ h2 {
 
 .ig-links a:hover {
   transform: translateY(-1px);
-  box-shadow: 0 6px 16px rgba(23, 85, 139, 0.15);
+  box-shadow: 0 6px 16px rgba(46, 97, 96, 0.15);
 }
 
 .ig-links span {
@@ -385,7 +386,7 @@ h2 {
 
 .contact-card {
   padding: 20px;
-  background: linear-gradient(180deg, #ffffff 0%, #e2f4ff 100%);
+  background: linear-gradient(180deg, #ffffff 0%, #d7eceb 100%);
 }
 
 .map-card {
@@ -433,7 +434,7 @@ h2 {
 
 .gallery-card:hover {
   transform: translateY(-7.5px);
-  box-shadow: 0 6px 16px rgba(23, 85, 139, 0.15);
+  box-shadow: 0 6px 16px rgba(46, 97, 96, 0.15);
 }
 
 .gallery-card img {
@@ -445,13 +446,13 @@ h2 {
 
 .gallery-card figcaption {
   padding: 11px 13px;
-  color: #365777;
+  color: #3f6263;
   font-size: 0.92rem;
 }
 
 .site-footer {
   border-top: 1px solid var(--line);
-  background: rgba(238, 249, 255, 0.94);
+  background: rgba(238, 247, 247, 0.94);
 
 }
 
