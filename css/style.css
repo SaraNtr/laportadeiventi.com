@@ -1,16 +1,16 @@
 :root {
-  --bg: #eef7f7;
+  --bg: #edf6f8;
   --surface: #ffffff;
-  --section-alt: #b0d8d7;
-  --text: #143739;
-  --muted: #3e6566;
-  --brand: #4a9c9a;
-  --brand-dark: #2f7f7d;
-  --accent: #72bfbd;
-  --sand: #d8efee;
-  --line: #9ec7c6;
+  --section-alt: #bee2e7;
+  --text: #16373c;
+  --muted: #3f6166;
+  --brand: #5a9eaa;
+  --brand-dark: #2f7684;
+  --accent: #7fbfcc;
+  --sand: #d5edf1;
+  --line: #9fc6ce;
   --radius: 16px;
-  --shadow: 0 10px 24px rgba(42, 96, 95, 0.16);
+  --shadow: 0 10px 24px rgba(35, 88, 97, 0.15);
 }
 
 * {
@@ -26,7 +26,7 @@ body {
   margin: 0;
   font-family: "Manrope", "Segoe UI", sans-serif;
   color: var(--text);
-  background: radial-gradient(circle at 12% 6%, #f6fbfb 0%, var(--bg) 46%, #d3e9e8 100%);
+  background: radial-gradient(circle at 12% 6%, #f8fcfd 0%, var(--bg) 46%, #d3eaf0 100%);
   line-height: 1.6;
 }
 
@@ -198,9 +198,9 @@ h3 {
   margin: 0 0 16px;
   padding: 10px 24px;
   border-radius: 999px;
-  background: #d3eceb;
-  border: 1px solid #8bbfbe;
-  color: #2a6f6d;
+  background: #d7edf1;
+  border: 1px solid #8fb8c1;
+  color: #2f6b75;
   font-size: 1.15rem;
   font-weight: 700;
   letter-spacing: 0.02em;
@@ -237,14 +237,14 @@ h2 {
 }
 
 .btn-primary {
-  background: linear-gradient(135deg, var(--accent), #4f9f9d);
+  background: linear-gradient(135deg, var(--accent), #4d93a0);
   color: #ffffff;
 }
 
 .btn-secondary {
   background: var(--surface);
   color: var(--brand-dark);
-  border-color: #89bdbc;
+  border-color: #89b5be;
 }
 
 .hero-card,
@@ -258,7 +258,7 @@ h2 {
 
 .hero-card {
   padding: 22px;
-  background: linear-gradient(180deg, #ffffff 0%, #d9efee 100%);
+  background: linear-gradient(180deg, #ffffff 0%, #dff0f3 100%);
 }
 
 .hero-card ul {
@@ -284,7 +284,7 @@ h2 {
 
 .story p {
   max-width: 78ch;
-  color: #2f5f60;
+  color: #315d65;
 }
 
 .story-layout {
@@ -338,7 +338,7 @@ h2 {
 
 .flavor-card:hover {
   transform: translateY(-7.5px);
-  box-shadow: 0 10px 20px rgba(46, 97, 96, 0.15);
+  box-shadow: 0 10px 20px rgba(41, 90, 99, 0.15);
 }
 
 .flavor-card img {
@@ -347,7 +347,7 @@ h2 {
   aspect-ratio: 1 / 1;
   object-fit: cover;
   border-radius: 50%;
-  border: 1px solid #9ec3c2;
+  border: 1px solid #9cbec6;
   margin: 0 auto 8px;
 }
 
@@ -426,7 +426,7 @@ h2 {
 
 .ig-links a:hover {
   transform: translateY(-1px);
-  box-shadow: 0 6px 16px rgba(46, 97, 96, 0.15);
+  box-shadow: 0 6px 16px rgba(41, 90, 99, 0.15);
 }
 
 .ig-links span {
@@ -450,7 +450,7 @@ h2 {
 
 .contact-card {
   padding: 20px;
-  background: linear-gradient(180deg, #ffffff 0%, #d7eceb 100%);
+  background: linear-gradient(180deg, #ffffff 0%, #deeff2 100%);
 }
 
 .map-card {
@@ -498,7 +498,7 @@ h2 {
 
 .gallery-card:hover {
   transform: translateY(-7.5px);
-  box-shadow: 0 6px 16px rgba(46, 97, 96, 0.15);
+  box-shadow: 0 6px 16px rgba(41, 90, 99, 0.15);
 }
 
 .gallery-card img {
@@ -510,13 +510,13 @@ h2 {
 
 .gallery-card figcaption {
   padding: 11px 13px;
-  color: #3f6263;
+  color: #3f6066;
   font-size: 0.92rem;
 }
 
 .site-footer {
   border-top: 1px solid var(--line);
-  background: rgba(238, 247, 247, 0.94);
+  background: rgba(237, 246, 248, 0.94);
 
 }
 
